@@ -32,4 +32,4 @@ For an [overview of existing codegen and flavor requests, please visit the GitHu
 Sponsors
 ========
 
-No sponsors right now :(
+No sponsors right now :
